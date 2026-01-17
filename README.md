@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ashish Prajapati 👋
 
-<!--
-**ashishprajapati05/ashishprajapati05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT student  
+🎓 BS in Data Science @ IIT Madras  
 
-Here are some ideas to get you started:
+### Skills
+- Python
+- Data Structures & Algorithms
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- DSA
+- Python projects
+- Data Science basics
+- java
+
+### Connect
+- LinkedIn:https://www.linkedin.com/in/ashish-prajapati-a92a99319/
+
