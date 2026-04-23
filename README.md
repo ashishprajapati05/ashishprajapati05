@@ -15,5 +15,5 @@
 - java
 
 ### Connect
-- LinkedIn:https://www.linkedin.com/in/ashish-prajapati-a92a99319/
+Linkedin :   https://www.linkedin.com/in/ashish-prajapati-view/
 
